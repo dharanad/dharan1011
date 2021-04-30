@@ -1321,7 +1321,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>
-                            Mostly push code around 13:00
+                            Mostly push code around 14:00
                         </li>
                         <li>
                             Mostly active on friday
@@ -1400,10 +1400,8 @@
                         12
                     </div>
                     <div class="entry">
-                        <span class="value">
-                            1
-                        </span>
-                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        <span class="value"></span>
+                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                         13
                     </div>
                     <div class="entry">
@@ -1493,7 +1491,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">
-                                2
+                                1
                             </span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Fri
@@ -2512,7 +2510,7 @@
                     These metrics include private contributions
                 </span>
                 <span>
-                    Last updated Fri, 30 Apr 2021 13:29:06 GMT with lowlighter/metrics@3.7.0
+                    Last updated Fri, 30 Apr 2021 14:22:19 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
