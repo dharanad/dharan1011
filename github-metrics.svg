@@ -1330,7 +1330,7 @@
                     <rect mask="url(#languages-bar)" x="427.9883033440511" y="0" width="10.513560653764495" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="438.5018639978155" y="0" width="9.974617309267607" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="448.47648130708313" y="0" width="8.417385053468038" height="8" fill="#ffac45"/>
-                    <rect mask="url(#languages-bar)" x="456.8938663605512" y="0" width="2.27496893336974" height="8" fill="#F18E33"/>
+                    <rect mask="url(#languages-bar)" x="456.8938663605512" y="0" width="2.27496893336974" height="8" fill="#A97BFF"/>
                     <rect mask="url(#languages-bar)" x="459.16883529392095" y="0" width="0.831164706079029" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
@@ -1359,7 +1359,7 @@
                 Swift
               </div>
                     <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#F18E33" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Kotlin
               </div>
                     <div class="field center no-wrap language">
@@ -2566,7 +2566,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Tue, 01 Jun 2021 09:30:25  with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Tue, 01 Jun 2021 11:06:34  with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
